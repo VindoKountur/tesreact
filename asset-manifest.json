@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tesreact/static/css/main.5f361e03.chunk.css",
+    "main.js": "/tesreact/static/js/main.acf3ea96.chunk.js",
+    "main.js.map": "/tesreact/static/js/main.acf3ea96.chunk.js.map",
+    "runtime-main.js": "/tesreact/static/js/runtime-main.0a53e5cb.js",
+    "runtime-main.js.map": "/tesreact/static/js/runtime-main.0a53e5cb.js.map",
+    "static/js/2.e8bd01d6.chunk.js": "/tesreact/static/js/2.e8bd01d6.chunk.js",
+    "static/js/2.e8bd01d6.chunk.js.map": "/tesreact/static/js/2.e8bd01d6.chunk.js.map",
+    "index.html": "/tesreact/index.html",
+    "precache-manifest.14f90bed7aa60acca4f8881f4128c4d1.js": "/tesreact/precache-manifest.14f90bed7aa60acca4f8881f4128c4d1.js",
+    "service-worker.js": "/tesreact/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/tesreact/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e8bd01d6.chunk.js.LICENSE.txt": "/tesreact/static/js/2.e8bd01d6.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/tesreact/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a53e5cb.js",
+    "static/js/2.e8bd01d6.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.acf3ea96.chunk.js"
+  ]
+}
